@@ -7,7 +7,6 @@ http://acns2016.sccs.surrey.ac.uk
 
 regarding the paper entitled :
 "Multi-Party Function Evaluation with Perfectly Private Audit Trail"
-and numbered #114
 
 Nevertheless, the following sha256 hash contains the author's identity :
 55d44eb75dc3e35e2f7f495161f7edfb599125e6a3d69ef2cd0f358e256743e0
